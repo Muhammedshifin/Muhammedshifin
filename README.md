@@ -14,21 +14,12 @@
 
 ---
 
-### 📈 **What I Do**  
-- 🔹 Build Cloud Storage Bots for Telegram  
-- 🔹 Develop API-based Chatbots  
-- 🔹 Automate tasks with Python and Selenium  
-- 🔹 Explore AI, Machine Learning, and Web Scraping  
-- 🔹 Edit videos and produce beats 🎶  
-
----
 
 ### 🌐 **Connect With Me**  
-- 📧 **Email**: [Your Email Address]  
+- 📧 **Email**: [muhammedshifink4@gmail.com](mailto:muhammedshifink4@gmail.com)  
 - 🖇️ **GitHub**: [Muhammedshifin](https://github.com/Muhammedshifin)  
 - 📱 **Telegram**: [Muhammedshifin](https://t.me/Muhammedshifin)  
-- 📸 **Instagram**: *[Add Your Instagram Handle Here]*  
-
+- 📸 **Instagram**: [shifin._mohd](https://www.instagram.com/shifin._mohd/)
 ---
 
 ### 🛠️ **Skills & Tools**  
@@ -52,12 +43,6 @@
 - 🌟 Exploring **AI-driven solutions**  
 - 🎯 Developing my **drop-shipping website**  
 
----
-
-### 📚 **Pinned Projects**  
-- 🚀 **Emotion Music Bot**: Plays music based on moods and emotions.  
-- 🔗 **Telegram Cloud Storage Bot**: Store and organize media files in the cloud.  
-- 🤖 **Doctor AI Chatbot**: AI chatbot providing medical-related responses using datasets.  
 
 ---
 
