@@ -41,7 +41,6 @@
 ### 🚀 **Work in Progress**  
 - 🔧 Building new **Telegram Bots**  
 - 🌟 Exploring **AI-driven solutions**  
-- 🎯 Developing my **drop-shipping website**  
 
 
 ---
